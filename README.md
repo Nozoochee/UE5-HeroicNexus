@@ -4,7 +4,7 @@ This is a screenshot of my WIP game Heroic Nexus, built in Unreal Engine 5.2. Du
 
 ## To run:
 - Go into the folder
-- If you don't own the `Electronic Nodes` and `Node Graph Assistant` plugins, open the .uproject file in a text editor and set "Enabled: false"
+- If you **don't** own the *Electronic Nodes* and *Node Graph Assistant* plugins, open the `.uproject` file in a text editor and set `Enabled: false`
 - Right click the `.uproject` file -> `Generate Visual Studio Solution`
 - Open and build inside VS or Rider
 
